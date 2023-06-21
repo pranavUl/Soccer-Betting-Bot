@@ -1,0 +1,10 @@
+W 1. person team1 win team2 0 0 odd
+W 2. person team1 win team2 0 0 odd
+W 3. person team1 win team2 0 0 odd
+W 4. person team1 win team2 0 0 odd
+W 5. person team1 win team2 0 0 odd
+L 1. ahyan tottenham-hotspur win west-ham-united 50.0 +100
+L 2. person team1 win team2 0 odd
+L 3. person team1 win team2 0 odd
+L 4. person team1 win team2 0 odd
+L 5. person team1 win team2 0 odd
