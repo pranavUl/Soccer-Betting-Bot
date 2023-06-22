@@ -13,7 +13,7 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ### Key Commands:
 
-#### User Features
+#### User Features 💰
 
 - showOdds
 
@@ -34,4 +34,8 @@ Note: only works in certain servers and is not prepared for distribution and dep
 - checkAll
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/b01f357a-ea46-46b4-a3f5-78090bbf179f)
+
+#### Statistics Features 📈
+
+- 
 
