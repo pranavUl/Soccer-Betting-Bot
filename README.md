@@ -13,13 +13,25 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ### Key Commands:
 
-#### User Features:
+#### User Features
 
 - showOdds
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f28bf53f-c653-4c72-9313-fd3603c8887f)
 
+- potentialBet
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/a23b8a01-22fc-43a8-b25f-b78a696c9cc0)
+
 - bet
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/d743fe4e-0508-4eb9-bc45-0a3990b2979d)
+
+- showBet
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/a8e9a89f-5b98-48c7-b031-1d9f4f63eff1)
+
+- checkAll
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/b01f357a-ea46-46b4-a3f5-78090bbf179f)
 
