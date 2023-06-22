@@ -68,7 +68,7 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ### Join the server today! https://discord.gg/uck5mMD5K
 
-###### *All transactions are made using imaginary currency.
+##### *All transactions are made using imaginary currency.
 
 
 
