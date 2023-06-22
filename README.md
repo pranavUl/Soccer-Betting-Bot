@@ -35,7 +35,32 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/b01f357a-ea46-46b4-a3f5-78090bbf179f)
 
+- sponsor (invest)
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/30c6a6c0-4c05-4fc7-9ea3-f975b3dac6a9)
+
+
 #### Statistics Features 📈
 
+- stat
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/0b8ffddc-6dd1-49ec-a3f0-4945ceef2b37)
+
+- lb
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/afa005ae-350b-45bd-9378-731ff9513fbd)
+
+- showActive
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/152d7781-3a9a-48f8-b5d8-75a08274cbd1)
+
+- showGraph
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/8f043f47-4490-4188-9357-abef638be4ad)
+
+#### Administrative Features 🛠️
+
 - 
+
+
 
