@@ -19,7 +19,7 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f28bf53f-c653-4c72-9313-fd3603c8887f)
 
-- bet
+- bet*
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/d743fe4e-0508-4eb9-bc45-0a3990b2979d)
 
@@ -67,6 +67,8 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 
 ### Join the server today! https://discord.gg/uck5mMD5K
+
+###### *All transactions are made using imaginary currency.
 
 
 
