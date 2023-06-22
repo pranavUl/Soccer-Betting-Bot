@@ -60,7 +60,7 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/98288801-83aa-49b3-94e5-54238931aeb2)
 
-- superSunday (calculates all bets and sponsorships and updates monetary balances every Sunday)
+- superSunday (calculates all bets and sponsorships and updates monetary balances; runs every Sunday)
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f18170e7-cc29-4d2f-82af-efbe3e5dfdde)
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/c00c1943-6a0f-426e-8cdb-f00b89d94c9a)
