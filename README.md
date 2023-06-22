@@ -13,11 +13,11 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ### Key Commands:
 
-## User Features:
+#### User Features:
 
 - showOdds
 
-![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/eca572ab-4bea-45a8-8c1a-398fc3c67fe2)
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f28bf53f-c653-4c72-9313-fd3603c8887f)
 
 - bet
 
