@@ -10,3 +10,8 @@ Note: only works in certain servers and is not prepared for distribution and dep
 - loans with variable interest rates and calculated withdrawal fees
 - statistics and records of growth for all aspects of user betting data
 - and so much more!
+
+### Key Commands:
+!bet - ...exactly what it sounds like
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/d743fe4e-0508-4eb9-bc45-0a3990b2979d)
+
