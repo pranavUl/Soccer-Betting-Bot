@@ -18,7 +18,7 @@ bot.load_extension("Cogs.Money")
 @bot.event #discord.py works through "events", functions can be found in the discord.py library
 async def on_ready(): #event when bot is ready
   print('Logged in!')
-  print('\n\n#####\n#####\n#####\n#####\n#####\n#####\n')
+  print('\n\n#####\n#####\n#####\n#####\n#####\n#####\n#####')
 
   
 keep_alive() #keeps the bot functioning even when not on this replit
