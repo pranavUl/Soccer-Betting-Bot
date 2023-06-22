@@ -19,10 +19,6 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f28bf53f-c653-4c72-9313-fd3603c8887f)
 
-- potentialBet
-
-![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/a23b8a01-22fc-43a8-b25f-b78a696c9cc0)
-
 - bet
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/d743fe4e-0508-4eb9-bc45-0a3990b2979d)
@@ -50,17 +46,27 @@ Note: only works in certain servers and is not prepared for distribution and dep
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/afa005ae-350b-45bd-9378-731ff9513fbd)
 
-- showActive
-
-![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/152d7781-3a9a-48f8-b5d8-75a08274cbd1)
-
 - showGraph
 
 ![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/8f043f47-4490-4188-9357-abef638be4ad)
 
 #### Administrative Features 🛠️
 
-- 
+- processAllOdds
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/5dcf9327-e0c6-4898-a810-698eacdeb0fe)
+
+- processAllResults
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/98288801-83aa-49b3-94e5-54238931aeb2)
+
+- superSunday (calculates all bets and sponsorships and updates monetary balances every Sunday)
+
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/f18170e7-cc29-4d2f-82af-efbe3e5dfdde)
+![image](https://github.com/pranavUl/Soccer-Betting-Bot/assets/105828651/c00c1943-6a0f-426e-8cdb-f00b89d94c9a)
+
+
+### Join the server today! https://discord.gg/uck5mMD5K
 
 
 
